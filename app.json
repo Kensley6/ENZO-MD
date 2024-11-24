@@ -1,5 +1,5 @@
 {
-  "name":"ENZO",
+  "name":"ur_cruch kalashy",
   "description":"Best whatsapp bot developed by ENZO",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
@@ -33,9 +33,9 @@
     }
     ,
     "BOT_NAME" : {
-       
+       *☆꧁༒☬  𝐂𝚪𝐔𝐒𝚮 𝐊𝚫𝐋𝚫𝐒𝚮𝐘☬༒꧂☆⁩
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"kalashy",
       "required":false
 
     } ,
@@ -63,25 +63,25 @@
     }  
 	  ,
     "SESSION_ID":
-    {
+    {eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0J3d0pKRzF4Rm8wM1lTSGpHTW9meTNOTFloTXk2dkpGT0twZ2FhdUYxTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUIvT1ZWRE9DM1RsMnFhQUJqU2FIV0tiRkc4NFp0bWdGQ1JVa3A5bmR5ND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwQU5BbE0zV1plS1ZuamthbzBXUW9RTTJZeFBEaDFxaGs3NjU1alNoTW1VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0a1VQSitFODlucC81M3Uxb015dndWOFo3UTY3aVU2d3YrRkRldndXcVhzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdKTE0vVXUzZnhkT2U2cy93dmlvT09RNk5INmR6VnRzMUhYMGhvQWp0MUk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJzckt5Z0xodi94ZnZ6ZVlFVStYYTM2NE53dlVkMVY1RzZtZU5JV0k0RG89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidVBnbC93aGs1MTkwbVhXTzd6bE1iZUtUWnZVT3BnR0IxL1dVTDcyOVMyYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYjhhWFZXVUxqT0xMT3VsaWdiSTZvS1lQT3NqMFBTOVUzdmpxR2dqZzlUOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVBSlRoK2pnRDRvSnpaMUJ5WXNSVW5oVm4wa2taem9VRjZiOTBKQ1ljTDBYTmpoRUlJVFlBYmpTWVFsUkZ4ZjdOZm9SNzhKQmJ4TXE1UUFTVjVPaENBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjA0LCJhZHZTZWNyZXRLZXkiOiJQazNUSkdxSWlMWmtZKzM0WnhyVFlzYkYxQjB0Zm1tSndUaENEVFhIUmxJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJqZEdwcHNoRFJaU2RDWlJBVWZxamdRIiwicGhvbmVJZCI6IjA3ZDZiMjk4LTRmMzItNDMxZS1iZTkzLTU2Y2EzMzU1MTQ4YiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJkdUpvUXI5RDA5Wk5jcWo3Snk0eVJtVUN1VGM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRHdWdkFpanlaU3Q3YWFSZWxWcFdsMmZoVm9NPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ilk5TkRXRzlUIiwibWUiOnsiaWQiOiI1MDkzNDQwMzE1MjoyMEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDT0dXMTVZQkVKQ0lqcm9HR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiMFVyd1J1bXZwSHBaRUJOb1FObzZTNkFTN0IyZ3NTZVV3TCtMVjhic3JVUT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZU4xYk1WZWNzcmdpRjZCZkw0LzA3emFWNk5rQ09lOGNBU1Q1WklBWm13dTY1MFR5ckhEaFBwVndTK3NvdWZzY1ZITjlVU2d3a3FZK1J6OHZhZVljQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IkRFUnlCSmVGOHJNZVIvRzF1L0EyNUFxSjI1bnR2SHBlNlY5STgvTmxPcUorYWljTWNYLzNraE5yVmFNc1ZITjZlOFJUYlo4SVRxYWY5cTdLOStOREF3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiNTA5MzQ0MDMxNTI6MjBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZEZLOEVicHI2UjZXUkFUYUVEYU9rdWdFdXdkb0xFbmxNQy9pMWZHN0sxRSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMjQ3Nzk4MSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFESDQifQ==
       "description":"put your session ID , the code you receive after scanning Qr code",   
       "value":"",
       "required":true
       
     },
     "OWNER_NAME":
-    {
+    {*☆꧁༒☬  𝐂𝚪𝐔𝐒𝚮 𝐊𝚫𝐋𝚫𝐒𝚮𝐘☬༒꧂☆⁩
     
     "desc": "Your Name",
     "required": false,
     "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
   },
     "NUMERO_OWNER":
-  {
+  {50934403152
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "50934403152"
   },
     "WARN_COUNT":
   {
