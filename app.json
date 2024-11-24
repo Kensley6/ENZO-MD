@@ -33,7 +33,7 @@
     }
     ,
     "BOT_NAME" : {
-       ur_crush kalashh
+       
       "description":"put A name for your bot",
       "value":"kalashy",
       "required":false
@@ -70,7 +70,7 @@
       
     },
     "OWNER_NAME":
-    {ur_crush kalashy⁩
+    {
     
     "desc": "Your Name",
     "required": false,
